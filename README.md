@@ -39,6 +39,3 @@ O script coleta.ipynb realiza:
 - Criação de um DataFrame com Pandas.
 - Exportação dos dados para CSV.
 
-## Testes
-
-- Coleta.py ( foi utilizado para testes )
